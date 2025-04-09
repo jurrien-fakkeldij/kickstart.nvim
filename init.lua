@@ -349,6 +349,7 @@ require('lazy').setup({
         { '<leader>h', group = 'Git [H]unk', mode = { 'n', 'v' } },
         { '<leader>a', group = 'Harpoon [A]dd file', mode = { 'n' } },
         { '<leader>f', group = '[F]uzzy Search' },
+        { '<leader>g', group = '[G]it fugitive' },
       },
     },
   },
